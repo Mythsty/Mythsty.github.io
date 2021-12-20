@@ -4,7 +4,7 @@
  
  - Contributors:
  > - [**Maciej Bobrek**](https://github.com/maciejbobrek) 
- > - [**Aleksander Mystkowski**](https://github.com/Mythsty)
+ > - [**My account**](https://github.com/Mythsty)
  > - [**Marcin Zub**](https://github.com/MarcinZ20) 
  > - [**Mikołaj Rożek**](https://github.com/mikrozek) 
  > - [**Karol Wójciak**](https://github.com/nextae) 
