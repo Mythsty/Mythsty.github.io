@@ -1,2 +1,2 @@
 # Mythsty.github.io
-Test readme
+My github.io page
