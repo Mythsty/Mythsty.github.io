@@ -3,8 +3,8 @@
  - Simply input your scores from your exams as well as the major of your choice and the calculator will tell how many points you have for your chosen major. 
  
  - Contributors:
- > - [**Maciej Bobrek**](https://github.com/maciejbobrek) 
  > - [**My account**](https://github.com/Mythsty)
+ > - [**Maciej Bobrek**](https://github.com/maciejbobrek) 
  > - [**Marcin Zub**](https://github.com/MarcinZ20) 
  > - [**Mikołaj Rożek**](https://github.com/mikrozek) 
  > - [**Karol Wójciak**](https://github.com/nextae) 
